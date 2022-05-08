@@ -15,7 +15,7 @@ Here agent learns the consequences of its actions through trial and error, rathe
 
 ## Our Use Case
 
-Here we are using a dataset containing detail different types of Ads prepared by advertisement for selling a car and then we collected click through rate of the ads for lots of users. The cells of dataset contains if user clicks on the partiular Ad or not.
+Here we are using a dataset containing detail of different types of Ads prepared by advertisement for selling a car and then we collected click through rate of the ads for lots of users. The cells of dataset contains if user clicks on the partiular Ad or not.
 We try to train our model by performing UCB learning to predict whether a particular add is suitable for advertisement purpose or not and which one is the best one.
 
 ## Test Our Model
